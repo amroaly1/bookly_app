@@ -1,6 +1,6 @@
-# bookly app
+# Bookly App 
 
-Bookly Application.
+Bookly Application 📖
 
 ## ▶️ Getting Started
 
